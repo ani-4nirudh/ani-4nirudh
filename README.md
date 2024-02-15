@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Ani. I am currently working on projects related to computer-vision and robotics. On the github page you can find the projects I have done so far, along with examples of C++ concepts (which i forget a lot ahaha!). 
+I'm Ani. I am currently working on projects related to computer-vision and robotics. Here you can find the projects I have done so far, along with examples of C++ concepts (which i forget a lot ahaha!).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ani-4nirudh)](https://github.com/anuraghazra/github-readme-stats)
 
