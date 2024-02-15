@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Ani. I am currently working on projects related to computer-vision and robotics. Here you can find the projects I have done so far, along with examples of C++ concepts (which i forget a lot ahaha!).
+I'm Ani. I am interested in things about computer-vision and robotics. Here you can find the projects I have done so far, along with examples of C++ concepts (which i forget a lot ahaha!).
 
 <!--
 ## Skills and Experience
