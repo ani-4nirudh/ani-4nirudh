@@ -4,7 +4,7 @@ I'm Ani. I am interested in things about computer-vision and robotics.
 <!--
 ## Skills and Experience
 -->
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ani-4nirudh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ani-4nirudh)](https://github.com/ani-4nirudh/github-readme-stats)
 <!--
 **ani-4nirudh/ani-4nirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
