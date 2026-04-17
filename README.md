@@ -4,10 +4,9 @@ I'm Ani. I am interested in things about computer-vision and robotics.
 <!--
 ## Skills and Experience
 -->
-![ani-4nirudh's Stats](https://github-readme-stats.vercel.app/api?username=ani-4nirudh&theme=monokai&show_icons=true&hide_border=false&count_private=true)
-![ani-4nirudh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ani-4nirudh&theme=monokai&show_icons=true&hide_border=false&layout=compact)
-![ani-4nirudh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ani-4nirudh&theme=monokai&hide_border=false)
-
+![ani-4nirudh's Stats](https://github-readme-stats.vercel.app/api?username=ani-4nirudh&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![ani-4nirudh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ani-4nirudh&theme=merko&hide_border=true)
+![ani-4nirudh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ani-4nirudh&theme=merko&show_icons=true&hide_border=true&layout=compact)
 <!--
 **ani-4nirudh/ani-4nirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
