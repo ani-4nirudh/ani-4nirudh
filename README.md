@@ -4,10 +4,8 @@ I'm Ani. I am interested in things about computer-vision and robotics.
 <!--
 ## Skills and Experience
 -->
-![ani-4nirudh's Stats](https://github-readme-stats.vercel.app/api?username=ani-4nirudh&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![ani-4nirudh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ani-4nirudh&theme=merko&hide_border=true)<br>
-![ani-4nirudh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ani-4nirudh&theme=merko&show_icons=true&hide_border=true&layout=compact)
-[![ani-4nirudh's GitHub stats](https://github-stats-extended.vercel.app/api?username=ani-4nirudh)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ani-4nirudh&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=ani-4nirudh&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ani-4nirudh&layout=compact&langs_count=8&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ani-4nirudh&layout=compact&langs_count=8&theme=chartreuse-dark)
 <!--
 **ani-4nirudh/ani-4nirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
