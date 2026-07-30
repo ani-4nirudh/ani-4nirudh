@@ -1,6 +1,7 @@
 # Hi 👋
-
-I'm Ani. I am interested in things about computer-vision and robotics.
+I'm Ani. 
+Robotics engineer and system programmer with Linux and toolchain experience.
+Building towards MCU, RTOS, and embedded Linux roles.
 <!--
 ## Skills and Experience
 -->
