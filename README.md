@@ -7,8 +7,8 @@ Building towards MCU, RTOS, and embedded Linux roles.
 -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ani-4nirudh&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=ani-4nirudh&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ani-4nirudh&layout=compact&langs_count=8&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ani-4nirudh&layout=compact&langs_count=8&theme=chartreuse-dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ani-4nirudh&repo=ani-4nirudh/posix-server-client&description_lines_count=2&theme=chartreuse-dark)](https://github.com/ani-4nirudh/posix-server-client)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ani-4nirudh&repo=ani-4nirudh/posix-realtime-sequencer&description_lines_count=2&theme=chartreuse-dark)](https://github.com/ani-4nirudh/posix-realtime-sequencer)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ani-4nirudh&repo=ani-4nirudh/posix-server-client&description_lines_count=2&theme=chartreuse-dark)](https://github.com/ani-4nirudh/posix-server-client)
 <!--
 **ani-4nirudh/ani-4nirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
