@@ -5,7 +5,7 @@ Building towards MCU, RTOS, and embedded Linux roles.
 <!--
 ## Skills and Experience
 -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ani-4nirudh&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=ani-4nirudh&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ani-4nirudh&layout=compact&langs_count=8&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ani-4nirudh&layout=compact&langs_count=8&theme=chartreuse-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ani-4nirudh&repo=ani-4nirudh%2Fposix-realtime-sequencer&description_lines_count=2&theme=chartreuse-dark)](https://github.com/ani-4nirudh/posix-realtime-sequencer)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ani-4nirudh&repo=ani-4nirudh/posix-server-client&description_lines_count=2&theme=chartreuse-dark)](https://github.com/ani-4nirudh/posix-server-client)
