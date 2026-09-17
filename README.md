@@ -1,7 +1,7 @@
 # Hi 👋
 I'm Ani. 
 Robotics engineer and system programmer with Linux and toolchain experience.
-Building towards MCU, RTOS, and embedded Linux roles.
+Specialising in MCUs, RTOS, and embedded Linux.
 <!--
 ## Skills and Experience
 -->
